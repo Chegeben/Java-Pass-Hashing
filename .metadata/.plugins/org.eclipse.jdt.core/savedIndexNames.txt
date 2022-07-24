@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+H:\Hashing\.metadata\.plugins\org.eclipse.jdt.core
+2016334524.index
+1959586436.index
